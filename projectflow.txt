@@ -1,0 +1,5 @@
+mongodb:
+krishnaasus15
+cfVoFmO6A8pufJR2
+
+connection str: mongodb+srv://krishnaasus15:<db_password>@cluster0.wfglcj2.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
