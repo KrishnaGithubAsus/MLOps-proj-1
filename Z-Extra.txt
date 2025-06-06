@@ -1,2 +1,9 @@
 MongoDb-connection str: 
-mongodb+srv://krishnaasus15:<db_password>@cluster0.by7hfyf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+mongodb+srv://krishnaasus15:9JvmucDksTzZEMBh@cluster0.6myvweq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+krishnaasus15
+
+
+Avv7TnwlCiTXTfDN
