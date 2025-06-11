@@ -1,9 +1,14 @@
 MongoDb-connection str: 
 
-mongodb+srv://krishnaasus15:9JvmucDksTzZEMBh@cluster0.6myvweq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://krishnaasus15:Avv7TnwlCiTXTfDN@cluster0.6myvweq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
-
+#username
 krishnaasus15
 
-
+#passweord
 Avv7TnwlCiTXTfDN
+
+
+
+$env:MONGODB_URL = "mongodb+srv://krishnaasus15:Avv7TnwlCiTXTfDN@cluster0.6myvweq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
