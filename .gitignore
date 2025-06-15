@@ -196,4 +196,5 @@ cython_debug/
 
 artifact/
 notebook/rf_model.pkl
-Z-Extra.txt
+.env
+
