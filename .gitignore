@@ -196,5 +196,6 @@ cython_debug/
 
 artifact/
 notebook/rf_model.pkl
+*.env
 .env
 
