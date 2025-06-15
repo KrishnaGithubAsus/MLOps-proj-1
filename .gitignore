@@ -199,3 +199,4 @@ notebook/rf_model.pkl
 *.env
 .env
 
+env
